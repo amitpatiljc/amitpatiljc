@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 👋 Hi, I’m Amit Patil a Frontend developer 
+#### 🌱 I’m currently learning all things frontend related (React, Redux). 
+#### 🔭 I’m proficient in HTML5, CSS3, SASS, JavaScript, React, TypeScript, and Bootstrap.
+#### 💞️ I’m looking to collaborate on any projects that i might be helpful in.
+#### 📫 You can reach me via amitpatiljc@gmail.com.
 <!--
 **amitpatiljc/amitpatiljc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
